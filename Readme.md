@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Sergey Gornostaev](https://up.htmlacademy.ru/javascript/10/user/210629).
-* Наставник: `Неизвестно`.
+* Наставник: `Без наставника`.
 
 ---
 
